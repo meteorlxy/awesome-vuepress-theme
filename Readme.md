@@ -10,6 +10,10 @@
 - [Themes](#themes)
 - [Plugins](#plugins)
 
+### Sites
+
+- [SorryPress](https://github.com/fritx/SorryPress) - Sorry动图 VuePress版 - [demo](https://fritx.me/sorry)
+
 ### Themes
 
 - vue - VuePress theme for official Vue projects - [npm](https://www.npmjs.com/package/vuepress-theme-vue)
