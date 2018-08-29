@@ -22,6 +22,8 @@
 
 ## Sites
 
+- [codemirror-colorpicker manual](https://easylogic.github.io/codemirror-colorpicker/)
+
 ### Official Vue Projects
 
 - [vue-cli](https://cli.vuejs.org)
