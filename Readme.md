@@ -8,7 +8,6 @@
 - [Plugins](#plugins)
 - [Sites](#sites)
 
-
 ## Themes
 
 ### Official Vuepress Themes
@@ -21,7 +20,6 @@
 
 - [yubisaki](https://github.com/Bloss/vuepress-theme-yubisaki) - vuepress-theme-yubisaki - [npm](https://www.npmjs.com/package/vuepress-theme-yubisaki)
 - [meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - vuepress-theme-meteorlxy - [npm](https://www.npmjs.com/package/vuepress-theme-meteorlxy)
-
 
 ## Plugins (1.x+)
 
@@ -43,6 +41,7 @@
 ### Community
 
 - [vuepress-plugin-nprogress](https://github.com/meteorlxy/vuepress-plugin-nprogress) - nprogress plugin for Vuepress - [npm](https://www.npmjs.com/package/vuepress-plugin-nprogress)
+- [vuepress-plugin-component-docgen](https://github.com/youngtailors/vuepress-plugin-component-docgen) - Generate documentation for Vue component - [npm](https://www.npmjs.com/package/vuepress-plugin-component-docgen)
 
 ## Sites
 
@@ -59,7 +58,7 @@
 
 ### Community
 
-- [SorryPress](https://github.com/fritx/SorryPress) - Vuepress version of [*xtyxtyx/sorry*](https://github.com/xtyxtyx/sorry)
+- [SorryPress](https://github.com/fritx/SorryPress) - Vuepress version of [_xtyxtyx/sorry_](https://github.com/xtyxtyx/sorry)
 - [cr-vue](https://cr-vue.mio3io.com) - Japanese Vue guide
 - [vuesax](https://lusaxweb.github.io/vuesax) - Vuesax Frontend Vue Components
 - [vue-showdown](https://vue-showdown.js.org) - Use showdown.js in Vue
