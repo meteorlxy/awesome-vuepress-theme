@@ -41,6 +41,7 @@
 ### Community
 
 - [vuepress-plugin-nprogress](https://github.com/meteorlxy/vuepress-plugin-nprogress) - nprogress plugin for Vuepress - [npm](https://www.npmjs.com/package/vuepress-plugin-nprogress)
+- [vuepress-plugin-alias](https://github.com/vaniyokk/vuepress-plugin-alias) - handling page aliases in Vuepress - [npm](https://www.npmjs.com/package/vuepress-plugin-alias)
 - [vuepress-plugin-component-docgen](https://github.com/youngtailors/vuepress-plugin-component-docgen) - Generate documentation for Vue component - [npm](https://www.npmjs.com/package/vuepress-plugin-component-docgen)
 
 ## Sites
