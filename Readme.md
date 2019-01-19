@@ -46,6 +46,7 @@
 - [vuepress-plugin-alias](https://github.com/vaniyokk/vuepress-plugin-alias) - handling page aliases in Vuepress - [npm](https://www.npmjs.com/package/vuepress-plugin-alias)
 - [vuepress-plugin-component-docgen](https://github.com/youngtailors/vuepress-plugin-component-docgen) - Generate documentation for Vue component - [npm](https://www.npmjs.com/package/vuepress-plugin-component-docgen)
 - [@vssue/vuepress-plugin-vssue](https://vssue.js.org/guide/vuepress.html) - enable comments for your vuepress sites - [npm](https://www.npmjs.com/package/@vssue/vuepress-plugin-vssue)
+- [vuepress-plugin-latex](https://github.com/zlliang/vuepress-plugin-latex) - LaTeX rendering plugin for VuePress, driven by KaTeX - [npm](https://www.npmjs.com/package/vuepress-plugin-latex)
 
 ## Sites
 
