@@ -47,6 +47,7 @@
 - [vuepress-plugin-component-docgen](https://github.com/youngtailors/vuepress-plugin-component-docgen) - Generate documentation for Vue component - [npm](https://www.npmjs.com/package/vuepress-plugin-component-docgen)
 - [@vssue/vuepress-plugin-vssue](https://vssue.js.org/guide/vuepress.html) - enable comments for your vuepress sites - [npm](https://www.npmjs.com/package/@vssue/vuepress-plugin-vssue)
 - [vuepress-plugin-latex](https://github.com/zlliang/vuepress-plugin-latex) - LaTeX rendering plugin for VuePress, driven by KaTeX - [npm](https://www.npmjs.com/package/vuepress-plugin-latex)
+- [vuepress-plugin-reading-time](https://github.com/darrenjennings/vuepress-plugin-reading-time) reading-time plugin to display how long a page takes to read
 
 ## Sites
 
