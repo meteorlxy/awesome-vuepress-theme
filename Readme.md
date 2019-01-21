@@ -20,6 +20,7 @@
 
 - [vuepress-theme-yubisaki](https://github.com/Bloss/vuepress-theme-yubisaki) - Yubisaki's Blog Theme - [npm](https://www.npmjs.com/package/vuepress-theme-yubisaki)
 - [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - Meteorlxy's Blog Theme - [npm](https://www.npmjs.com/package/vuepress-theme-meteorlxy)
+- [vuepress-theme-jupiter](https://github.com/zlliang/vuepress-theme-jupiter) - A simple theme using [Bulma-jupiter](https://github.com/zlliang/bulma-jupiter) styles, and supporting LaTeX rendering - [npm](https://www.npmjs.com/package/vuepress-theme-jupiter)
 
 ## Plugins
 
