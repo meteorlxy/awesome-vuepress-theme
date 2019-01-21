@@ -49,6 +49,10 @@
 - [@vssue/vuepress-plugin-vssue](https://vssue.js.org/guide/vuepress.html) - enable comments for your vuepress sites - [npm](https://www.npmjs.com/package/@vssue/vuepress-plugin-vssue)
 - [vuepress-plugin-latex](https://github.com/zlliang/vuepress-plugin-latex) - LaTeX rendering plugin for VuePress, driven by KaTeX - [npm](https://www.npmjs.com/package/vuepress-plugin-latex)
 - [vuepress-plugin-reading-time](https://github.com/darrenjennings/vuepress-plugin-reading-time) reading-time plugin to display how long a page takes to read
+- [vuepress-plugin-minimal-analytics](https://github.com/webmasterish/vuepress-plugin-minimal-analytics) - Minimal Google Analytics plugin for VuePress
+- [vuepress-plugin-autometa](https://github.com/webmasterish/vuepress-plugin-autometa) - Auto meta tags plugin for VuePress
+- [vuepress-plugin-autonav](https://github.com/webmasterish/vuepress-plugin-autonav) - Auto nav links plugin for VuePress
+- [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress
 
 ## Sites
 
