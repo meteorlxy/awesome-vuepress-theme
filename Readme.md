@@ -21,6 +21,7 @@
 - [vuepress-theme-yubisaki](https://github.com/Bloss/vuepress-theme-yubisaki) - Yubisaki's Blog Theme - [npm](https://www.npmjs.com/package/vuepress-theme-yubisaki)
 - [vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - Meteorlxy's Blog Theme - [npm](https://www.npmjs.com/package/vuepress-theme-meteorlxy)
 - [vuepress-theme-jupiter](https://github.com/zlliang/vuepress-theme-jupiter) - A simple theme using [Bulma-jupiter](https://github.com/zlliang/bulma-jupiter) styles, and supporting LaTeX rendering - [npm](https://www.npmjs.com/package/vuepress-theme-jupiter)
+- [vuepress-theme-simple](https://github.com/viko16/vuepress-theme-simple) - ✏️ Very Simple Blog Theme for VuePress - [npm](https://www.npmjs.com/package/vuepress-theme-simple)
 
 ## Plugins
 
@@ -53,6 +54,7 @@
 - [vuepress-plugin-autometa](https://github.com/webmasterish/vuepress-plugin-autometa) - Auto meta tags plugin for VuePress
 - [vuepress-plugin-autonav](https://github.com/webmasterish/vuepress-plugin-autonav) - Auto nav links plugin for VuePress
 - [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress
+- [vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin) - A VuePress plugin which convert Chinese title to transliterate permalink.
 
 ## Sites
 
