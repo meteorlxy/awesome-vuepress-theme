@@ -55,6 +55,7 @@
 - [vuepress-plugin-autonav](https://github.com/webmasterish/vuepress-plugin-autonav) - Auto nav links plugin for VuePress
 - [vuepress-plugin-feed](https://github.com/webmasterish/vuepress-plugin-feed) - RSS, Atom, and JSON feeds generator plugin for VuePress
 - [vuepress-plugin-permalink-pinyin](https://github.com/viko16/vuepress-plugin-permalink-pinyin) - A VuePress plugin which convert Chinese title to transliterate permalink.
+- [@silvanite/vuepress-plugin-markdown-classes](https://github.com/Silvanite/vuepress-plugin-markdown-classes) - Adds css classes to html generated from markdown content.
 
 ## Sites
 
