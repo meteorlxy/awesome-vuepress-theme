@@ -80,3 +80,4 @@
 - [vue-showdown](https://vue-showdown.js.org) - Use showdown.js in Vue
 - [vssue](https://vssue.js.org) - A Vue-powered Issue-based Comment Plugin
 - [codemirror-colorpicker](https://easylogic.github.io/codemirror-colorpicker/) - Colorpicker manual site
+- [Peacock](https://papapeacockstorage.z13.web.core.windows.net/) - Peacock documentation
